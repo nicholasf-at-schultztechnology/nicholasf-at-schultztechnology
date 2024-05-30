@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicholas
 - 👀 I’m interested in 01100011 01101111 01100100 01100101
-- 🌱 I’m currently learning WPF
-- 📫 How to reach me ...
+- 🌱 I’m always learning 
+- 📫 How to reach me 🤷
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I race 1/10 scale RC cars
